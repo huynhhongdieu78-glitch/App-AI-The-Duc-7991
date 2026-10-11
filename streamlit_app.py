@@ -1,4 +1,3 @@
-Python
 import streamlit as st
 import docx
 from io import BytesIO
@@ -111,4 +110,4 @@ with tab2:
 with tab3:
     st.subheader("Bảng Đánh Giá Kỹ Năng GDTC Lớp 7 (Thông tư 22/2021/BGDĐT)")
     st.write("• **Mức Đạt (Đ):** Thực hiện đúng 3 lệnh xuất phát thấp, góc ngả thân người khi chạy lao hợp lý, hoàn thành cự ly chạy 30m/50m đúng thời gian tiêu chuẩn.")
-    st.write("• **Mức Chưa Đạt (CĐ):** Xuất phát sai hiệu lệnh, bật thẳng người ngay
+    st.write("• **Mức Chưa Đạt (CĐ):** Xuất phát sai hiệu lệnh, bật thẳng người ngay khi xuất phát hoặc không đảm bảo an toàn luyện tập.")
